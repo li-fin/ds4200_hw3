@@ -1,0 +1,7 @@
+Website Link: https://li-fin.github.io/ds4200_hw3/
+
+Styling & Customization:
+- Changed the font and text color.
+- Implemented padding for the main content.
+- Customized how images are displayed (e.g. added round corners).
+- Made certain text always centered (headers and navigation links).
